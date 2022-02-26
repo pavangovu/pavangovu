@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a senior at the University of Texas at Dallas, pursuing a bachelor's degree in computer science. I've also been a software development engineer intern at Ericsson for the past year.
+
+I graduated high school from the Texas Academy of Math and Science (TAMS), a highly selective early-college-entrance residential STEM program for gifted students, where I conducted research on IoT security software for smart home and hospital devices. 
+
+After I came to UTD, I was admitted into CS², the computer science honors program. Since then, I've won three hackathons, was employed by Trusted World Nonprofit as a full-stack engineer, presented my historical data mining, NLP research in a university-wide symposium, and have taken countless upper-level computer science courses, ranging from Machine Learning to Databases to Cybersecurity.
+
 <!--
 **pavangovu/pavangovu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
