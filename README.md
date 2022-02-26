@@ -1,22 +1,29 @@
-### Hi there 👋
+<h2> Hi, I'm Pavan Govu! <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="230">
+<p><em>B.S. Computer Science at <a href="https://cs.utdallas.edu/">The University of Texas at Dallas</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Development Engineer at <a href="https://www.ericsson.com/en">Ericsson</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-I'm a senior at the University of Texas at Dallas, pursuing a bachelor's degree in computer science. I've also been a software development engineer intern at Ericsson for the past year.
+[![Linkedin: pavangovu](https://img.shields.io/badge/-pavangovu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-govu-0851841ab)](https://www.linkedin.com/in/pavan-govu-0851841ab)
+[![GitHub Thaiane](https://img.shields.io/github/followers/pavangovu?label=follow&style=social)](https://github.com/pavangovu)
 
-I graduated high school from the Texas Academy of Math and Science (TAMS), a highly selective early-college-entrance residential STEM program for gifted students, where I conducted research on IoT security software for smart home and hospital devices. 
 
-After I came to UTD, I was admitted into CS², the computer science honors program. Since then, I've won three hackathons, was employed by Trusted World Nonprofit as a full-stack engineer, presented my historical data mining, NLP research in a university-wide symposium, and have taken countless upper-level computer science courses, ranging from Machine Learning to Databases to Cybersecurity.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<!--
-**pavangovu/pavangovu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const pavan = {
+  certifications: "Java OCP 11" | "AWS Cloud Practitioner",
+  languages: [Java, C#, C++, C, Python, SQL, R, Bash],
+  frameworks: [.NET, Node.js, JQuery],
+  tools: [AWS, Postman, Netlify, JUnit, MongoDB, JupyterLab, LaTeX],
+  contact_information: {
+                        email: "pavan.govu@utdallas.edu",
+                        linkedin: "linkedin.com/in/pavangovu",
+                        github: "you're already here :)"
+                      },
+   fun_fact: "I trained my cat to play fetch!"
+}
+```
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
