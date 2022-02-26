@@ -16,10 +16,10 @@ const pavan = {
   frameworks: [.NET, Node.js, JQuery],
   tools: [AWS, Postman, Netlify, JUnit, MongoDB, JupyterLab, LaTeX],
   contact_information: {
-                        email: "pavan.govu@utdallas.edu",
-                        linkedin: "linkedin.com/in/pavangovu",
-                        github: "you're already here :)"
-                      },
+                          email: "pavan.govu@utdallas.edu",
+                          linkedin: "linkedin.com/in/pavangovu",
+                          github: "you're already here :)"
+                       },
    fun_fact: "I trained my cat to play fetch!"
 }
 ```
