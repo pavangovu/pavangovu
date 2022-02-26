@@ -20,7 +20,7 @@ const pavan = {
                           linkedin: "linkedin.com/in/pavangovu",
                           github: "you're already here :)"
                        },
-   fun_fact: "I trained my cat to play fetch!"
+  fun_fact: "I trained my cat to play fetch!"
 }
 ```
 
