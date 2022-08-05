@@ -1,6 +1,6 @@
 <h2> Hi, I'm Pavan Govu! <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="230">
-<p><em>M.S. Computer Science at <a href="https://cs.utdallas.edu/">The University of Texas at Dallas</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Development Engineer at <a href="https://www.ericsson.com/en">Ericsson</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>M.S. Computer Science at <a href="https://cs.utdallas.edu/">The University of Texas at Dallas</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Development Engineer at <a href="https://www.ericsson.com/en">Dell</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: pavangovu](https://img.shields.io/badge/-pavangovu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-govu-0851841ab)](https://www.linkedin.com/in/pavan-govu-0851841ab)
