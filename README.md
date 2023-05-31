@@ -1,6 +1,6 @@
 <h2> Hi, I'm Pavan Govu! <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" width="230">
-<p><em>M.S. Computer Science at <a href="https://cs.utdallas.edu/">The University of Texas at Dallas</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Development Engineer at <a href="https://www.dell.com/en-us">Dell</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>M.S. Computer Science at the <a href="https://cs.utdallas.edu/">Georgia Institute of Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Software Development Engineer at <a href="https://www.capitalonecareers.com/">Capital One</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: pavangovu](https://img.shields.io/badge/-pavangovu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pavan-govu-0851841ab)](https://www.linkedin.com/in/pavan-govu-0851841ab)
@@ -16,7 +16,7 @@ const pavan = {
   frameworks: [.NET, Node.js, JQuery],
   tools: [AWS, Postman, Netlify, JUnit, MongoDB, JupyterLab, LaTeX],
   contact_information: {
-                          email: "pavan.govu@utdallas.edu",
+                          email: "pavangovu@gmail.com",
                           linkedin: "linkedin.com/in/pavangovu",
                           github: "you're already here :)"
                        },
