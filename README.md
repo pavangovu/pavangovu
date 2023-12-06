@@ -17,6 +17,7 @@ const pavan = {
   tools: [AWS, Postman, Netlify, JUnit, MongoDB, JupyterLab, LaTeX],
   contact_information: {
                           email: "pavangovu@gmail.com",
+                          discord: "@pavangovu",
                           github: "you're already here :)"
                        },
   fun_fact: "I trained my cat to play fetch!"
